@@ -8,7 +8,7 @@ Recommended repository name: `smoking-stay-alert`
 
 ## Domain candidates
 
-First candidate: `smokingstay.jp`
+Confirmed domain: `smokingstay.jp`
 
 Other candidates:
 
