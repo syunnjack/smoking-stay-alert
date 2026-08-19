@@ -1,7 +1,4 @@
-# Smoking Stay Alert
+# smokingstay.jp
 
-喫煙可、バストイレ付き、深夜チェックインなど条件特化の空室通知で宿泊予約へ送客するサービス。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 宿泊予約, 条件検索プレミアム, ホテル掲載, クーポン送客, 法人出張導線
-Primary categories: 喫煙可, バストイレ付き, 深夜チェックイン, 駅近, 個室
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
